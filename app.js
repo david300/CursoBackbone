@@ -21,6 +21,7 @@ app.get('/', function (req,res){
 });
 
 // API REST
+//Que pasa acá
 
 // Mostrar todos los libros
 app.get('/libros', function(req,res) {
